@@ -38,3 +38,4 @@ The database `zen_class` consists of the following collections:
     * `name`: Mentor name (String)
     * `mentee_count`: Number of mentees assigned to the mentor (Number)
 above images contain queries details .....
+![alt image]()
